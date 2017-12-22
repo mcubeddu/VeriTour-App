@@ -30,5 +30,5 @@ class Descriptions {
     self.title = title
         self.description = description
     }
-}
+} 
 

@@ -93,4 +93,4 @@ class infoVC: UIViewController {
         }
 
     }
-}
+} 
